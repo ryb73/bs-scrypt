@@ -1,0 +1,1 @@
+Js.log(Scrypt._fixHashParams @@ Scrypt.params 0.5 ());

@@ -1,0 +1,12 @@
+{
+    "name" : "bs-scrypt",
+    "bs-dependencies": [ "bs-node" ],
+    "sources" : [
+        { "dir" : "src" },
+        {
+            "dir": "test",
+            "type": "dev"
+        }
+    ],
+    "bsc-flags": [ "-w -10", "-bs-super-errors" ]
+}

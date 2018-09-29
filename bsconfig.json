@@ -1,6 +1,9 @@
 {
     "name" : "bs-scrypt",
-    "bs-dependencies": [ "bs-node" ],
+    "bs-dependencies": [
+        "bs-node",
+        "reduice"
+    ],
     "sources" : [
         { "dir" : "src" },
         {

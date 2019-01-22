@@ -1,5 +1,5 @@
 {
-  "name": "bs-scrypt",
+  "name": "@ryb73/bs-scrypt",
   "version": "0.0.1",
   "description": "BuckleScript bindings for https://www.npmjs.com/package/scrypt",
   "main": "index.js",
@@ -10,6 +10,10 @@
     "clean": "rm -rf lib && bsb -clean-world",
     "postinstall": "[ ! -f package-links.json ] || ppl link-file"
   },
+  "files": [
+    "/bsconfig.json",
+    "/src"
+  ],
   "keywords": [
     "bucklescript",
     "reason",
@@ -27,10 +31,8 @@
     "bs-platform": "^4.0.0"
   },
   "dependencies": {
+    "@ryb73/bs-node": "0.0.1",
+    "@ryb73/reduice": "0.0.5",
     "scrypt": "^6.0.3"
-  },
-  "dependencies": {
-    "bs-node": "0.0.1",
-    "reduice": "0.0.1"
   }
 }

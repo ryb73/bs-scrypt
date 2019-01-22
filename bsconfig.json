@@ -1,8 +1,8 @@
 {
-    "name" : "bs-scrypt",
+    "name" : "@ryb73/bs-scrypt",
     "bs-dependencies": [
-        "bs-node",
-        "reduice"
+        "@ryb73/bs-node",
+        "@ryb73/reduice"
     ],
     "sources" : [
         { "dir" : "src" },
@@ -11,5 +11,6 @@
             "type": "dev"
         }
     ],
+    "refmt": 3,
     "bsc-flags": [ "-w -10", "-bs-super-errors" ]
 }

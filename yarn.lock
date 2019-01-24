@@ -14,10 +14,10 @@
   resolved "https://registry.yarnpkg.com/@ryb73/bs-node/-/bs-node-0.0.1.tgz#775a10510835aa69fe9ab042caba3f75a95a7d63"
   integrity sha512-O3XSidasw+z/h0rPnu5ByNcjiE5KZhb/pPe2rvfresj5WNfFsunWc4w4rnBxJURwgIIN/0wrKIlq7Ki334uKMA==
 
-"@ryb73/reduice@0.0.5":
-  version "0.0.5"
-  resolved "https://registry.yarnpkg.com/@ryb73/reduice/-/reduice-0.0.5.tgz#53286d64c7286de1f4124734d051fd091b2246de"
-  integrity sha512-SFuGIgIDwspJbvQ5up1We3JA9JP+6pk6MQcEicu4Kj3ZS3ilybacIJr7IQKCtMaMDpFuhmgdtiVK3wslPpT4Qg==
+"@ryb73/reduice@0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@ryb73/reduice/-/reduice-0.0.6.tgz#ac5302e8429b23addb9560b3bae51d5d64a347c0"
+  integrity sha512-wLIp5sZNdHkgyGYizhYkphCSba7SfJc6nRGcIex2wJaQwDK2eRjZFkm/3cTOqZtD/+1zMAC2o2c3Sa8GpZV5Xg==
   dependencies:
     "@ryb73/bs-bluebird" "0.0.2"
 

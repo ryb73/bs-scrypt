@@ -33,7 +33,6 @@
   },
   "dependencies": {
     "@ryb73/bs-node": "0.0.2",
-    "@ryb73/reduice": "0.0.7",
     "scrypt": "^6.0.3"
   }
 }

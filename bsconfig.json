@@ -2,7 +2,6 @@
     "name" : "@ryb73/bs-scrypt",
     "bs-dependencies": [
         "@ryb73/bs-node",
-        "@ryb73/reduice"
     ],
     "sources" : [
         { "dir" : "src" },

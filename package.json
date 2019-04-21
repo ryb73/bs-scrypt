@@ -32,7 +32,7 @@
     "bs-platform": "^5.0.0"
   },
   "dependencies": {
-    "@ryb73/bs-node": "0.0.2",
+    "@ryb73/bs-node": "0.0.3",
     "scrypt": "^6.0.3"
   }
 }

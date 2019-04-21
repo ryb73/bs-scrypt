@@ -2,10 +2,17 @@
 # yarn lockfile v1
 
 
-"@ryb73/bs-node@0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@ryb73/bs-node/-/bs-node-0.0.2.tgz#de28f8bed90729dce5e98f5e12f65ad7731298da"
-  integrity sha512-++wfKukj8ANDh7JdSMfeZVtwFLVdhxEU/90G69CV1jTi0qliXu42K7YGcnSkn8G8wt786vLA3R1lyCNP/Vsb/w==
+"@ryb73/bs-node@0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@ryb73/bs-node/-/bs-node-0.0.3.tgz#8541a44342784f406aa68e9896c6251889fcb6c5"
+  integrity sha512-Botb4FBQKGoMma+VLArF1HNm3p04+NakaXzAk7diOSTJTm1Us4/N/p6ABPDRtWFB8w5vMCZLjzHSvT7b7RCRtA==
+  dependencies:
+    bs-platform "^5.0.3"
+
+bs-platform@^5.0.3:
+  version "5.0.3"
+  resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-5.0.3.tgz#2b167603ef52574cb9534fabab702f6013715e6c"
+  integrity sha512-GAeypBebeDGTay5kJ3v5Z3Whp1Q4zQ0hAttflVtPG3zps88xDZnVAlS3JGIIBDmJFEMyNtv5947a/IWKvWXcPw==
 
 nan@^2.0.8:
   version "2.12.1"

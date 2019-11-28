@@ -12,8 +12,7 @@
   },
   "files": [
     "/bsconfig.json",
-    "/src",
-    "/lib/js/src"
+    "/src"
   ],
   "keywords": [
     "bucklescript",
@@ -29,10 +28,10 @@
     "url": "git@github.com:ryb73/bs-scrypt.git"
   },
   "peerDependencies": {
-    "bs-platform": "^5.0.0"
+    "bs-platform": "^5.0.0 || ^6.0.0"
   },
   "dependencies": {
-    "@ryb73/bs-node": "0.0.4",
+    "@ryb73/bs-node": "^0.0.4",
     "scrypt": "^6.0.3"
   }
 }

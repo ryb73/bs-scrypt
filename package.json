@@ -33,5 +33,8 @@
   "dependencies": {
     "@ryb73/bs-node": "^0.0.4",
     "scrypt": "^6.0.3"
+  },
+  "devDependencies": {
+    "bs-platform": "^6.0.0"
   }
 }

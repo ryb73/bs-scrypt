@@ -7,6 +7,11 @@
   resolved "https://registry.yarnpkg.com/@ryb73/bs-node/-/bs-node-0.0.4.tgz#ddb6344bedbea2e8ad48a935e70042f1c8af10a5"
   integrity sha512-jU1F1VS7Z5jxOwB8kBYeVI1AT+//K3p8vb1HYh/jfTVRpXNml/U8Ub6tCTgMJI4+EdLqkBeQ4NqKujoJqS/A/Q==
 
+bs-platform@^6.0.0:
+  version "6.2.1"
+  resolved "https://registry.yarnpkg.com/bs-platform/-/bs-platform-6.2.1.tgz#30266c7f23a3b323e1fc9596a9a6eb9f053981b4"
+  integrity sha512-FmQ8kYV52A0Y302qh6o0/J9TO+kHzsjGQnsjrg/ONUYIY/jWzBnt9dCBO6EBnaEKfFJLqk5JrUDCxuihqtTcnw==
+
 nan@^2.0.8:
   version "2.12.1"
   resolved "https://registry.yarnpkg.com/nan/-/nan-2.12.1.tgz#7b1aa193e9aa86057e3c7bbd0ac448e770925552"
